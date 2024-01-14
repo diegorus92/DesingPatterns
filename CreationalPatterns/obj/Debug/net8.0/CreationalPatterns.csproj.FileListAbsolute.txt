@@ -1,0 +1,15 @@
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.exe
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.deps.json
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.runtimeconfig.json
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\bin\Debug\net8.0\CreationalPatterns.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.AssemblyInfoInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.AssemblyInfo.cs
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.csproj.CoreCompileInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.sourcelink.json
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\refint\CreationalPatterns.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\CreationalPatterns.genruntimeconfig.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\CreationalPatterns\obj\Debug\net8.0\ref\CreationalPatterns.dll
