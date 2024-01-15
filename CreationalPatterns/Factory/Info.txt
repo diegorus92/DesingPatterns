@@ -1,0 +1,6 @@
+﻿Factory Method:
+	It's a creational design pattern that provides an interface for creating objects in a superclass, 
+	while allowing subclasses to alter the type of objects that be created.
+
+Example:
+	Vehicle Factory

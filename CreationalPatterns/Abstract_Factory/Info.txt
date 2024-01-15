@@ -1,0 +1,6 @@
+﻿Abstract Factory:
+	It's a creational design pattern that allows us to produce families of related objects,
+	without specifying their concrete classes
+
+Example: 
+	Changer Color Theme elements for app (ex: Light Theme, Dark Theme & so on...)

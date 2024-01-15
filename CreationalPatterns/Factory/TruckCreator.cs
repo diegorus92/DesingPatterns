@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CreationalPatterns.Factory
 {
+    //Concrete Creator
     internal class TruckCreator : VehicleCreator
     {
         public override IVehicle CreateVehicle()

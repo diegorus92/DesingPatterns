@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CreationalPatterns.Factory
 {
+    //Concrete Product
     internal class Truck : IVehicle
     {
         public string RunVehicle()
