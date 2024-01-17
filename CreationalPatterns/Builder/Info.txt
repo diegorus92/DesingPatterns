@@ -1,0 +1,7 @@
+﻿Builder:
+	is a creational dedign pattern that allows us to build complex objects step by step.
+	This pattern let us produce different types and representations of an object using 
+	the same build code.
+
+Example:
+	robot construction

@@ -1,6 +1,7 @@
 ﻿#region Factory_execution
 
 using CreationalPatterns.Abstract_Factory;
+using CreationalPatterns.Builder;
 using CreationalPatterns.Factory;
 using System.Net.Http.Headers;
 
@@ -40,6 +41,24 @@ switch (option)
     
         
 
+
+Console.WriteLine("--------------------------------");
+#endregion
+
+#region Builder_execution
+Console.WriteLine("Builder Pattern\n");
+
+RobotBuilder robotBuilder = new RobotBuilder();
+RobotDirector director = new RobotDirector(robotBuilder);
+
+//Creating an assistant Robot
+Robot assistantRobot = director.CreateAssitantRobot();
+assistantRobot.ColorizedStringOutput(assistantRobot.ToString());
+Console.WriteLine("\n\n");
+
+//Creating a Combat Robot
+Robot combatRobot = director.CreateCombatRobot();
+combatRobot.ColorizedStringOutput(combatRobot.ToString());
 
 Console.WriteLine("--------------------------------");
 #endregion
