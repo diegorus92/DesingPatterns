@@ -3,6 +3,7 @@
 using CreationalPatterns.Abstract_Factory;
 using CreationalPatterns.Builder;
 using CreationalPatterns.Factory;
+using CreationalPatterns.Prototype;
 using System.Net.Http.Headers;
 
 Console.WriteLine("Factory Pattern\n");
@@ -59,6 +60,21 @@ Console.WriteLine("\n\n");
 //Creating a Combat Robot
 Robot combatRobot = director.CreateCombatRobot();
 combatRobot.ColorizedStringOutput(combatRobot.ToString());
+
+Console.WriteLine("--------------------------------");
+#endregion
+
+#region Prototype_Execution
+Console.WriteLine("Prototype Pattern\n");
+
+Dog dog = new Dog("Fluffy", "Siberian");
+Dog clonedDog = (Dog) dog.Clone();
+Console.WriteLine($"Cloned {clonedDog.GetType().Name}  {clonedDog.Name} race: {clonedDog.Race}\nCloned dog = dog???: {clonedDog.Equals(dog)}\n");
+
+Cat cat = new Cat("Sparky", "Siamese");
+Cat clonedCat = (Cat) cat.Clone();
+Console.WriteLine($"Cloned {clonedCat.GetType().Name}  {clonedCat.Name} race: {clonedCat.Race}\nCloned dog = dog???: {clonedCat.Equals(cat)}\n");
+
 
 Console.WriteLine("--------------------------------");
 #endregion
