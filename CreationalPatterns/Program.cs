@@ -4,6 +4,7 @@ using CreationalPatterns.Abstract_Factory;
 using CreationalPatterns.Builder;
 using CreationalPatterns.Factory;
 using CreationalPatterns.Prototype;
+using CreationalPatterns.Singleton;
 using System.Net.Http.Headers;
 
 Console.WriteLine("Factory Pattern\n");
@@ -75,6 +76,22 @@ Cat cat = new Cat("Sparky", "Siamese");
 Cat clonedCat = (Cat) cat.Clone();
 Console.WriteLine($"Cloned {clonedCat.GetType().Name}  {clonedCat.Name} race: {clonedCat.Race}\nCloned dog = dog???: {clonedCat.Equals(cat)}\n");
 
+
+Console.WriteLine("--------------------------------");
+#endregion
+
+#region Singleton_Execution
+Console.WriteLine("Singleton Pattern\n");
+
+Database myDatabase = Database.GetDatabaseInstance();
+myDatabase.query("SELECT * FROM Costumers;");
+
+Database mySameDatabase = Database.GetDatabaseInstance();
+mySameDatabase.query("SELECT * FROM Products;");
+
+Console.WriteLine("HashCode object: "+ myDatabase.GetHashCode()); 
+Console.WriteLine("HashCode object: "+ mySameDatabase.GetHashCode());
+Console.WriteLine("Same intance?: "+ myDatabase.Equals(mySameDatabase));
 
 Console.WriteLine("--------------------------------");
 #endregion

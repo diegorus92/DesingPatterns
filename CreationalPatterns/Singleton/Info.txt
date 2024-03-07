@@ -1,0 +1,4 @@
+﻿Singleton:
+	is a creational design pattern which allows us to ensure that a class have a single intance,
+	while providing a global access point to that instance
+

@@ -1,0 +1,6 @@
+﻿Bridge Pattern:
+	Allows to divide a big class or an closely related classes group, in two separated hierarchy.
+	(Abstraction & Implementation) those can develop independently of each other.
+
+Example:
+	Character (Abstarction) & Skin (Implementation)

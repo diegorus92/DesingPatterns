@@ -1,0 +1,6 @@
+﻿Adapter
+	It's an structural design pattern that allows to collaboration between object with
+	incompatible interfaces
+
+Example
+	VGI to DVI connection 

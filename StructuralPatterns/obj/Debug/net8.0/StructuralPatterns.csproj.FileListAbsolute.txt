@@ -1,0 +1,15 @@
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.exe
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.deps.json
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.runtimeconfig.json
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfoInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfo.cs
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.sourcelink.json
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\refint\StructuralPatterns.dll
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.genruntimeconfig.cache
+D:\Diego\Varios\Proyectos de Programacion\C#\DesignPatterns\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll
